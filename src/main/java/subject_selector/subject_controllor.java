@@ -49,5 +49,6 @@ public class subject_controllor {
     }
 
     public static void main(String[] args) {
+        
     }
 }
