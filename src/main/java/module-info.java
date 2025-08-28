@@ -19,4 +19,7 @@ module com.example.personalfinance {
 
     opens subject_selector to javafx.fxml;
     exports subject_selector;
+
+    opens numberGuess to javafx.fxml;
+    exports numberGuess;
 }

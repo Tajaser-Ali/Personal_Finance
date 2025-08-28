@@ -71,7 +71,6 @@ public class subject_controllor {
                 System.out.println(lblLang.getText());
             }
         };
-        m1.setOnAction(test1);
         m2.setOnAction(event1);
         m3.setOnAction(event1);
     }
